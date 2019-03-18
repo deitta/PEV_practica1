@@ -1,4 +1,3 @@
-// que no existe me diceee?!?!?!?
 package interfaz;
 
 import java.awt.BorderLayout;
